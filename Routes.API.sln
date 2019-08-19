@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Routes.API", "Routes.API\Routes.API.csproj", "{DBB5B3B5-E7BC-4406-B84E-933E8856D057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{DCBE2E0E-BE2C-4CB5-9D8C-D3D0172107AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB5B3B5-E7BC-4406-B84E-933E8856D057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB5B3B5-E7BC-4406-B84E-933E8856D057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB5B3B5-E7BC-4406-B84E-933E8856D057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB5B3B5-E7BC-4406-B84E-933E8856D057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBE2E0E-BE2C-4CB5-9D8C-D3D0172107AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBE2E0E-BE2C-4CB5-9D8C-D3D0172107AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBE2E0E-BE2C-4CB5-9D8C-D3D0172107AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBE2E0E-BE2C-4CB5-9D8C-D3D0172107AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BAF1F87-52EB-4B3A-A716-E3D2CFDA74A4}
+	EndGlobalSection
+EndGlobal
